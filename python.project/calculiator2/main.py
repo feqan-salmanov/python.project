@@ -1,0 +1,10 @@
+reqem1 = float(input("Birinci reqem :"))
+reqem2 = float(input("Ikinci reqem  :"))
+
+print("\n")
+print("===============================")
+print("Toplama  :",reqem1+reqem2)
+print("cixma    :",reqem1-reqem2)
+print("bolme    :",reqem1/reqem2)
+print("vurma    :",reqem1*reqem2)
+print("===============================")
